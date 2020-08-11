@@ -4,7 +4,6 @@ I adjusted original AlexNet implementations for 64x64 images
 
 ### Logs
 
-
 ![batchsize](https://img.shields.io/badge/Batch%20Size-64-%234299E1) ![activation](https://img.shields.io/badge/Activation-relu-%234299E1) ![epoch](https://img.shields.io/badge/Epoch-60-%234299E1) 
 ![learning_rate](https://img.shields.io/badge/Learning%20Rate-1e--3-%234299E1) ![optimizer](https://img.shields.io/badge/Optimizer-SGD-%234299E1)
 
