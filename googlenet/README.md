@@ -8,4 +8,4 @@ This is the implementation of GoogLeNet with Tensorflow.
 
 ![rank-1](https://img.shields.io/badge/Rank--1-48.27%25-%2348BB78) ![rank-5](https://img.shields.io/badge/Rank--5-74.19%25-%2348BB78) ![loss](https://img.shields.io/badge/Loss-2.17658-%2348BB78) ![accuracy](https://img.shields.io/badge/Accuracy-0.615905-%2348BB78) ![val_loss](https://img.shields.io/badge/Val%20Loss-2.85754-%2348BB78) ![val_accuracy](https://img.shields.io/badge/Val%20Accuracy-0.491787-%2348BB78) 
 
-[More Logs at Neptune](https://ui.neptune.ai/davianyang/TinyImageNetChallenge/e/GOOG-20/charts)
+[More Logs at Neptune](https://ui.neptune.ai/davianyang/TinyImageNetChallenge/compare?shortId=%5B%22GOOG-20%22%2C%22GOOG-34%22%2C%22GOOG-19%22%2C%22GOOG-15%22%2C%22GOOG-10%22%2C%22GOOG-7%22%5D&viewId=standard-view)
